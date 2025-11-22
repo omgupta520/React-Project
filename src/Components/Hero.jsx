@@ -26,7 +26,7 @@ const HeroSection = () => {
       <div className="hero-image">
         <img src="/images/hero-image.png" alt="hero-image" />
       </div>
-      <h1>hello whatsup</h1>
+      
     </main>
 
   );
